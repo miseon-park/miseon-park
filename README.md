@@ -8,7 +8,7 @@
 #### Even if it's slow, I'm trying to study meticulously and steadily.
 #### And I like to study and challenge new fields.
 
-<br/> <br/>
+<br/>
 
 ## ✨ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 ### Skills

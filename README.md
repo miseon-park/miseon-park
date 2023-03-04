@@ -1,19 +1,3 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**miseon-park/miseon-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
 
@@ -21,7 +5,7 @@ Here are some ideas to get you started:
 
 ## 💬 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 #### Hello, there! 😊 I'm back-end development starter using Java.
-#### Even if it's slow, I'm studying meticulously and steadily.
+#### Even if it's slow, I'm trying to study meticulously and steadily.
 #### And I like to study and challenge new fields.
 
 <br/> <br/>

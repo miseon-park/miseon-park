@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:A2E9FF,100:FFD2D7&text=Miseon%20Impossible&fontColor=ffffff&fontSize=50&fontAlignY=40)
 
 ## 💬 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
-Hello, there! 😊 I'm back-end development starter using Java. <br/>
-Even if it's slow, I'm studying meticulously and steadily. <br/>
-And I like to study and challenge new fields. <br/>
+#### Hello, there! 😊 I'm back-end development starter using Java.
+#### Even if it's slow, I'm studying meticulously and steadily.
+#### And I like to study and challenge new fields.
 
 <br/> <br/>
 
@@ -66,9 +66,18 @@ And I like to study and challenge new fields. <br/>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white">
 </p>
+
+<br/>
+
+## 
+<br/>
+
+<p>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miseon-park&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miseon-park&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p> 
 
 
 </div>
